@@ -195,11 +195,6 @@
     "frequency": 1314
   },
   {
-    "pinyin": "ān lè wō",
-    "word": "安乐窝",
-    "frequency": 117
-  },
-  {
     "pinyin": "ān mín gào shì",
     "word": "安民告示",
     "frequency": 71
@@ -1170,11 +1165,6 @@
     "frequency": 84
   },
   {
-    "pinyin": "bào bù píng",
-    "word": "抱不平",
-    "frequency": 61
-  },
-  {
     "pinyin": "bào cán shǒu quē",
     "word": "抱残守缺",
     "frequency": 109
@@ -1278,11 +1268,6 @@
     "pinyin": "bēi shuǐ chē xīn",
     "word": "杯水车薪",
     "frequency": 350
-  },
-  {
-    "pinyin": "bēi zhōng wù",
-    "word": "杯中物",
-    "frequency": 14
   },
   {
     "pinyin": "bēi cóng zhōng lái",
@@ -1543,11 +1528,6 @@
     "pinyin": "bì mén dú shū",
     "word": "闭门读书",
     "frequency": 39
-  },
-  {
-    "pinyin": "bì mén gēng",
-    "word": "闭门羹",
-    "frequency": 136
   },
   {
     "pinyin": "bì mén sī guò",
@@ -2168,11 +2148,6 @@
     "pinyin": "bù biàn shū mài",
     "word": "不辨菽麦",
     "frequency": 10
-  },
-  {
-    "pinyin": "bù chéng qì",
-    "word": "不成器",
-    "frequency": 440
   },
   {
     "pinyin": "bù chéng tǐ tǒng",
@@ -7235,11 +7210,6 @@
     "frequency": 45
   },
   {
-    "pinyin": "diào shū dài",
-    "word": "掉书袋",
-    "frequency": 25
-  },
-  {
     "pinyin": "diào yǐ qīng xīn",
     "word": "掉以轻心",
     "frequency": 800
@@ -7343,11 +7313,6 @@
     "pinyin": "dōng dǎo xī wāi",
     "word": "东倒西歪",
     "frequency": 419
-  },
-  {
-    "pinyin": "dōng dào zhǔ",
-    "word": "东道主",
-    "frequency": 707
   },
   {
     "pinyin": "dōng duǒ xī cáng",
@@ -8010,11 +7975,6 @@
     "frequency": 28
   },
   {
-    "pinyin": "è zuò jù",
-    "word": "恶作剧",
-    "frequency": 912
-  },
-  {
     "pinyin": "è hǔ pū shí",
     "word": "饿虎扑食",
     "frequency": 18
@@ -8070,11 +8030,6 @@
     "frequency": 338
   },
   {
-    "pinyin": "ěr biān fēng",
-    "word": "耳边风",
-    "frequency": 111
-  },
-  {
     "pinyin": "ěr bìn sī mó",
     "word": "耳鬓厮磨",
     "frequency": 91
@@ -8098,11 +8053,6 @@
     "pinyin": "ěr mù zhòng duō",
     "word": "耳目众多",
     "frequency": 13
-  },
-  {
-    "pinyin": "ěr páng fēng",
-    "word": "耳旁风",
-    "frequency": 52
   },
   {
     "pinyin": "ěr rǔ mù rǎn",
@@ -8133,11 +8083,6 @@
     "pinyin": "ěr wén mù dǔ",
     "word": "耳闻目睹",
     "frequency": 130
-  },
-  {
-    "pinyin": "èr bǎ dāo",
-    "word": "二把刀",
-    "frequency": 60
   },
   {
     "pinyin": "èr fēn míng yuè",
@@ -9043,11 +8988,6 @@
     "pinyin": "fēng liú yùn shì",
     "word": "风流韵事",
     "frequency": 80
-  },
-  {
-    "pinyin": "fēng mǎ niú",
-    "word": "风马牛",
-    "frequency": 23
   },
   {
     "pinyin": "fēng mǎ niú bù xiāng jí",
@@ -10908,11 +10848,6 @@
     "pinyin": "gù tǔ nán lí",
     "word": "故土难离",
     "frequency": 46
-  },
-  {
-    "pinyin": "gù zhǐ duī",
-    "word": "故纸堆",
-    "frequency": 107
   },
   {
     "pinyin": "gù zuò gāo shēn",
@@ -13725,11 +13660,6 @@
     "frequency": 13
   },
   {
-    "pinyin": "jí xiān fēng",
-    "word": "急先锋",
-    "frequency": 129
-  },
-  {
     "pinyin": "jí yú qiú chéng",
     "word": "急于求成",
     "frequency": 952
@@ -14030,11 +13960,6 @@
     "frequency": 17
   },
   {
-    "pinyin": "jiǎ cí bēi",
-    "word": "假慈悲",
-    "frequency": 25
-  },
-  {
     "pinyin": "jiǎ gōng jì sī",
     "word": "假公济私",
     "frequency": 106
@@ -14048,11 +13973,6 @@
     "pinyin": "jiǎ xì zhēn zuò",
     "word": "假戏真做",
     "frequency": 60
-  },
-  {
-    "pinyin": "jiǎ xīng xīng",
-    "word": "假惺惺",
-    "frequency": 109
   },
   {
     "pinyin": "jià gǒu suí gǒu",
@@ -15073,11 +14993,6 @@
     "pinyin": "jīn huái tǎn bái",
     "word": "襟怀坦白",
     "frequency": 158
-  },
-  {
-    "pinyin": "jǐn gū zhòu",
-    "word": "紧箍咒",
-    "frequency": 502
   },
   {
     "pinyin": "jǐn luó mì gǔ",
@@ -16505,11 +16420,6 @@
     "frequency": 894
   },
   {
-    "pinyin": "kōng chéng jì",
-    "word": "空城计",
-    "frequency": 198
-  },
-  {
     "pinyin": "kōng dòng wú wù",
     "word": "空洞无物",
     "frequency": 117
@@ -16663,11 +16573,6 @@
     "pinyin": "kǒu sì xuán hé",
     "word": "口似悬河",
     "frequency": 10
-  },
-  {
-    "pinyin": "kǒu tóu chán",
-    "word": "口头禅",
-    "frequency": 1309
   },
   {
     "pinyin": "kǒu zhū bǐ fá",
@@ -17230,11 +17135,6 @@
     "frequency": 28
   },
   {
-    "pinyin": "lǎo jiāng hú",
-    "word": "老江湖",
-    "frequency": 131
-  },
-  {
     "pinyin": "lǎo lái yú qīn",
     "word": "老莱娱亲",
     "frequency": 12
@@ -17573,11 +17473,6 @@
     "pinyin": "lǐ guǎng nán fēng",
     "word": "李广难封",
     "frequency": 10
-  },
-  {
-    "pinyin": "lǐ chéng bēi",
-    "word": "里程碑",
-    "frequency": 2489
   },
   {
     "pinyin": "lǐ gōu wài lián",
@@ -18485,11 +18380,6 @@
     "frequency": 93
   },
   {
-    "pinyin": "lòu mǎ jiǎo",
-    "word": "露马脚",
-    "frequency": 34
-  },
-  {
     "pinyin": "lú shān zhēn miàn",
     "word": "庐山真面",
     "frequency": 17
@@ -18618,11 +18508,6 @@
     "pinyin": "luàn chén zéi zǐ",
     "word": "乱臣贼子",
     "frequency": 21
-  },
-  {
-    "pinyin": "luàn tán qín",
-    "word": "乱弹琴",
-    "frequency": 17
   },
   {
     "pinyin": "luàn qī bā zāo",
@@ -18815,11 +18700,6 @@
     "frequency": 76
   },
   {
-    "pinyin": "mǎ hòu pào",
-    "word": "马后炮",
-    "frequency": 91
-  },
-  {
     "pinyin": "mǎ mǎ hǔ hǔ",
     "word": "马马虎虎",
     "frequency": 315
@@ -18828,11 +18708,6 @@
     "pinyin": "mǎ qián pō shuǐ",
     "word": "马前泼水",
     "frequency": 28
-  },
-  {
-    "pinyin": "mǎ qián zú",
-    "word": "马前卒",
-    "frequency": 53
   },
   {
     "pinyin": "mǎ shàng dé tiān xià",
@@ -18968,11 +18843,6 @@
     "pinyin": "mǎn shān biàn yě",
     "word": "满山遍野",
     "frequency": 617
-  },
-  {
-    "pinyin": "mǎn tiān fēi",
-    "word": "满天飞",
-    "frequency": 767
   },
   {
     "pinyin": "mǎn tiān xīng dǒu",
@@ -19270,11 +19140,6 @@
     "frequency": 422
   },
   {
-    "pinyin": "mén wài hàn",
-    "word": "门外汉",
-    "frequency": 371
-  },
-  {
     "pinyin": "mén shēn lì jǐng",
     "word": "扪参历井",
     "frequency": 10
@@ -19288,11 +19153,6 @@
     "pinyin": "mén xīn zì wèn",
     "word": "扪心自问",
     "frequency": 670
-  },
-  {
-    "pinyin": "mèn hú lú",
-    "word": "闷葫芦",
-    "frequency": 33
   },
   {
     "pinyin": "mèn mèn bù lè",
@@ -19368,16 +19228,6 @@
     "pinyin": "mí tiān dà zuì",
     "word": "弥天大罪",
     "frequency": 11
-  },
-  {
-    "pinyin": "mí hún tāng",
-    "word": "迷魂汤",
-    "frequency": 33
-  },
-  {
-    "pinyin": "mí hún zhèn",
-    "word": "迷魂阵",
-    "frequency": 58
   },
   {
     "pinyin": "mí huò bù jiě",
@@ -20075,11 +19925,6 @@
     "frequency": 93
   },
   {
-    "pinyin": "mò xū yǒu",
-    "word": "莫须有",
-    "frequency": 224
-  },
-  {
     "pinyin": "mò zhōng yī shì",
     "word": "莫衷一是",
     "frequency": 165
@@ -20705,11 +20550,6 @@
     "frequency": 47
   },
   {
-    "pinyin": "niǎo shòu sàn",
-    "word": "鸟兽散",
-    "frequency": 24
-  },
-  {
     "pinyin": "niǎo yǔ huā xiāng",
     "word": "鸟语花香",
     "frequency": 2838
@@ -21140,11 +20980,6 @@
     "frequency": 42
   },
   {
-    "pinyin": "pǎo lóng tào",
-    "word": "跑龙套",
-    "frequency": 222
-  },
-  {
     "pinyin": "péi le fū rén yòu zhé bīng",
     "word": "赔了夫人又折兵",
     "frequency": 96
@@ -21183,11 +21018,6 @@
     "pinyin": "pěng fù dà xiào",
     "word": "捧腹大笑",
     "frequency": 470
-  },
-  {
-    "pinyin": "pèng dìng zǐ",
-    "word": "碰钉子",
-    "frequency": 57
   },
   {
     "pinyin": "pī gān lì dǎn",
@@ -21510,11 +21340,6 @@
     "frequency": 20
   },
   {
-    "pinyin": "pō lěng shuǐ",
-    "word": "泼冷水",
-    "frequency": 263
-  },
-  {
     "pinyin": "pó pó mā mā",
     "word": "婆婆妈妈",
     "frequency": 134
@@ -21593,11 +21418,6 @@
     "pinyin": "pò tì wéi xiào",
     "word": "破涕为笑",
     "frequency": 116
-  },
-  {
-    "pinyin": "pò tiān huāng",
-    "word": "破天荒",
-    "frequency": 320
   },
   {
     "pinyin": "pò tóng làn tiě",
@@ -22620,11 +22440,6 @@
     "frequency": 68
   },
   {
-    "pinyin": "qiāo biān gǔ",
-    "word": "敲边鼓",
-    "frequency": 17
-  },
-  {
     "pinyin": "qiāo gǔ xī suǐ",
     "word": "敲骨吸髓",
     "frequency": 25
@@ -22635,11 +22450,6 @@
     "frequency": 287
   },
   {
-    "pinyin": "qiāo mén zhuān",
-    "word": "敲门砖",
-    "frequency": 695
-  },
-  {
     "pinyin": "qiāo shān zhèn hǔ",
     "word": "敲山震虎",
     "frequency": 20
@@ -22648,11 +22458,6 @@
     "pinyin": "qiāo zhà lè suǒ",
     "word": "敲诈勒索",
     "frequency": 403
-  },
-  {
-    "pinyin": "qiāo zhū gàng",
-    "word": "敲竹杠",
-    "frequency": 13
   },
   {
     "pinyin": "qiáo qiān zhī xǐ",
@@ -23090,11 +22895,6 @@
     "frequency": 90
   },
   {
-    "pinyin": "qīng jūn cè",
-    "word": "清君侧",
-    "frequency": 16
-  },
-  {
     "pinyin": "qīng shuǐ yá mén",
     "word": "清水衙门",
     "frequency": 34
@@ -23123,11 +22923,6 @@
     "pinyin": "qīng xīn jùn yì",
     "word": "清新俊逸",
     "frequency": 40
-  },
-  {
-    "pinyin": "qīng yī sè",
-    "word": "清一色",
-    "frequency": 921
   },
   {
     "pinyin": "qīng tíng diǎn shuǐ",
@@ -24405,11 +24200,6 @@
     "frequency": 13
   },
   {
-    "pinyin": "ròu zhōng cì",
-    "word": "肉中刺",
-    "frequency": 48
-  },
-  {
     "pinyin": "rú chī rú kuáng",
     "word": "如痴如狂",
     "frequency": 20
@@ -24875,11 +24665,6 @@
     "frequency": 15
   },
   {
-    "pinyin": "sān jiā cūn",
-    "word": "三家村",
-    "frequency": 111
-  },
-  {
     "pinyin": "sān jiān qí kǒu",
     "word": "三缄其口",
     "frequency": 72
@@ -25113,11 +24898,6 @@
     "pinyin": "shā dí zhì guǒ",
     "word": "杀敌致果",
     "frequency": 11
-  },
-  {
-    "pinyin": "shā fēng jǐng",
-    "word": "杀风景",
-    "frequency": 12
   },
   {
     "pinyin": "shā jī jǐng hóu",
@@ -26840,11 +26620,6 @@
     "frequency": 18
   },
   {
-    "pinyin": "shì jīn shí",
-    "word": "试金石",
-    "frequency": 392
-  },
-  {
     "pinyin": "shì cái ào wù",
     "word": "恃才傲物",
     "frequency": 107
@@ -27013,11 +26788,6 @@
     "pinyin": "shǒu zú zhī qíng",
     "word": "手足之情",
     "frequency": 63
-  },
-  {
-    "pinyin": "shǒu cái nú",
-    "word": "守财奴",
-    "frequency": 85
   },
   {
     "pinyin": "shǒu jīng dá quán",
@@ -28500,11 +28270,6 @@
     "frequency": 112
   },
   {
-    "pinyin": "tì zuì yáng",
-    "word": "替罪羊",
-    "frequency": 177
-  },
-  {
     "pinyin": "tiān bēng dì liè",
     "word": "天崩地裂",
     "frequency": 122
@@ -29550,11 +29315,6 @@
     "frequency": 72
   },
   {
-    "pinyin": "tuán tuán zhuàn",
-    "word": "团团转",
-    "frequency": 377
-  },
-  {
     "pinyin": "tuī bō zhù lán",
     "word": "推波助澜",
     "frequency": 648
@@ -30083,11 +29843,6 @@
     "pinyin": "wàng hū suǒ yǐ",
     "word": "忘乎所以",
     "frequency": 378
-  },
-  {
-    "pinyin": "wàng nián jiāo",
-    "word": "忘年交",
-    "frequency": 191
   },
   {
     "pinyin": "wàng nián zhī jiāo",
@@ -31965,11 +31720,6 @@
     "frequency": 462
   },
   {
-    "pinyin": "xià mǎ wēi",
-    "word": "下马威",
-    "frequency": 96
-  },
-  {
     "pinyin": "xià xué shàng dá",
     "word": "下学上达",
     "frequency": 11
@@ -32360,11 +32110,6 @@
     "frequency": 24
   },
   {
-    "pinyin": "xiǎng dāng rán",
-    "word": "想当然",
-    "frequency": 700
-  },
-  {
     "pinyin": "xiǎng fāng shè fǎ",
     "word": "想方设法",
     "frequency": 2147
@@ -32613,11 +32358,6 @@
     "pinyin": "xiào lǐ cáng dāo",
     "word": "笑里藏刀",
     "frequency": 72
-  },
-  {
-    "pinyin": "xiào miàn hǔ",
-    "word": "笑面虎",
-    "frequency": 46
   },
   {
     "pinyin": "xiào róng kě jū",
@@ -34350,11 +34090,6 @@
     "frequency": 59
   },
   {
-    "pinyin": "yǎn zhōng dīng",
-    "word": "眼中钉",
-    "frequency": 104
-  },
-  {
     "pinyin": "yàn guò bá máo",
     "word": "雁过拔毛",
     "frequency": 231
@@ -34980,11 +34715,6 @@
     "frequency": 75
   },
   {
-    "pinyin": "yī dāo qiē",
-    "word": "一刀切",
-    "frequency": 922
-  },
-  {
     "pinyin": "yī dé yī xīn",
     "word": "一德一心",
     "frequency": 12
@@ -35263,11 +34993,6 @@
     "pinyin": "yī lín bàn zhǎo",
     "word": "一鳞半爪",
     "frequency": 29
-  },
-  {
-    "pinyin": "yī liú yān",
-    "word": "一溜烟",
-    "frequency": 229
   },
   {
     "pinyin": "yī lù fēng chén",
@@ -35740,11 +35465,6 @@
     "frequency": 140
   },
   {
-    "pinyin": "yī wō fēng",
-    "word": "一窝蜂",
-    "frequency": 436
-  },
-  {
     "pinyin": "yī wú shì chù",
     "word": "一无是处",
     "frequency": 686
@@ -35893,11 +35613,6 @@
     "pinyin": "yī yán nán jìn",
     "word": "一言难尽",
     "frequency": 211
-  },
-  {
-    "pinyin": "yī yán táng",
-    "word": "一言堂",
-    "frequency": 269
   },
   {
     "pinyin": "yī yán wéi dìng",
@@ -37103,11 +36818,6 @@
     "pinyin": "yìng jiē bù xiá",
     "word": "应接不暇",
     "frequency": 770
-  },
-  {
-    "pinyin": "yìng shēng chóng",
-    "word": "应声虫",
-    "frequency": 16
   },
   {
     "pinyin": "yīng yǒu jìn yǒu",
@@ -39590,11 +39300,6 @@
     "frequency": 148
   },
   {
-    "pinyin": "zhí niú ěr",
-    "word": "执牛耳",
-    "frequency": 70
-  },
-  {
     "pinyin": "zhí dǎo huáng lóng",
     "word": "直捣黄龙",
     "frequency": 32
@@ -40263,11 +39968,6 @@
     "pinyin": "zhú mǎ zhī jiāo",
     "word": "竹马之交",
     "frequency": 10
-  },
-  {
-    "pinyin": "zhú kè lìng",
-    "word": "逐客令",
-    "frequency": 19
   },
   {
     "pinyin": "zhú lù zhōng yuán",
@@ -40968,11 +40668,6 @@
     "pinyin": "zòng héng tiān xià",
     "word": "纵横天下",
     "frequency": 120
-  },
-  {
-    "pinyin": "zǒu guò chǎng",
-    "word": "走过场",
-    "frequency": 438
   },
   {
     "pinyin": "zǒu mǎ guān huā",
